@@ -3,7 +3,15 @@
 > Dense Optical Flow + U-Net Segmentation for Abdominal Aortic Aneurysm Biomechanics
 
 ---
+## Article / Preprint
+Si vous utilisez ce code ou cette recherche, merci de citer notre article :
 
+- **Dense Optical Flow and U-Net Segmentation for Automated Circumferential Strain Mapping in Abdominal Aortic Aneurysms**
+ — *Hanae SOULAMI* (2026)
+* [Consulter la version officielle sur Zenodo](https://zenodo.org/records/21005718)
+* [Consulter sur Academia.edu](https://www.academia.edu/169346642/Dense_Optical_Flow_and_U_Net_Segmentation_for_Automated_Circumferential_Strain_Mapping_in_Abdominal_Aortic_Aneurysms)
+
+---
 ## 🔍 Background
 
 Non-invasive biomechanical characterisation of **abdominal aortic aneurysm (AAA)** wall tissue requires accurate segmentation and motion tracking on time-resolved B-mode ultrasound (US) sequences.
